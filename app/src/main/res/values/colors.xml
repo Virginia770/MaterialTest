@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+   <resources>
+
+    <!--primary ever is 500-->
+    <color name="primaryColor">#3f51b5</color>
+    <color name="primaryColorDark">#303f9f</color>
+    <color name="accentColor">#f44336</color>
+   </resources>
